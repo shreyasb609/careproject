@@ -33,3 +33,4 @@ All medical terminology and abbreviation definitions are referenced from authori
 - **CDC** (Centers for Disease Control and Prevention)
 - **CMS** (Centers for Medicare & Medicaid Services)
 - **AOTA & APTA** (Occupational & Physical Therapy Associations)
+

@@ -15,3 +15,4 @@ Hospital discharge is one of the most vulnerable points in healthcare delivery. 
 - **Demystifying Error-Prone Abbreviations:** The Joint Commission and ISMP advocate eliminating error-prone abbreviations (e.g., *QD*, *QOD*, *U*). CareTransition translates these into plain language and alerts users to potential ambiguity.
 - **Structured Caregiver Handoff:** Structured handoffs (similar to hospital nursing shift reports) significantly reduce miscommunication during transitions to home care.
 - **Low-Cognitive Burden Interface:** Calming colors, minimal clutter, large readable controls, and mobile accessibility support patients recovering from anesthesia, surgery, or serious acute illnesses.
+

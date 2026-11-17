@@ -64,3 +64,4 @@ CareTransition is structured as a **Pure Client-Side Application** (Single Page 
 | **pdfjs-dist** | Local Document Extraction | Extracts text from PDF files directly in the browser |
 | **jsPDF + AutoTable** | PDF Output Generation | Generates clean, printable documents client-side |
 | **Vitest** | Automated Testing | Fast unit testing for parser rules and edge cases |
+

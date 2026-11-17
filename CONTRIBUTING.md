@@ -31,3 +31,4 @@ Thank you for your interest in contributing to CareTransition. We welcome contri
 - [ ] No tracking pixels, analytics, or remote API calls introduced.
 - [ ] Accessible UI standards (color contrast, clear font sizes, keyboard navigation).
 - [ ] `npm test` and `npm run build` pass with zero errors.
+

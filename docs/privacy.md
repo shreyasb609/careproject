@@ -29,3 +29,4 @@ Because data is stored locally in the web browser:
 ## Regulatory Disclaimer
 
 Local client-side storage is intended as a personal convenience and organizational aid. It is **not** an official Electronic Health Record (EHR) system. Do not claim HIPAA compliance certification without an institutional and organizational security audit.
+
